@@ -1,4 +1,4 @@
-# 🧠 Proyecto Académicos
+# Proyecto Académicos
 
 Este proyecto fue desarrollado en equipo como parte del módulo 7 del Bootcamp Fullstack Python.
 
@@ -15,7 +15,7 @@ La aplicación **Académicos** es una plataforma educativa básica que modela la
 
 ---
 
-## 🎯 Objetivo del proyecto
+## Objetivo del proyecto
 
 Modelar y relacionar entidades del contexto académico usando **Django**, representando los tres tipos de relaciones principales en una base de datos relacional:
 
@@ -27,7 +27,7 @@ Modelar y relacionar entidades del contexto académico usando **Django**, repres
 
 ---
 
-## 🧩 Modelos implementados
+## Modelos implementados
 
 - **Profesor** → nombre, email, especialidad  
 - **Curso** → nombre, descripción, relación con Profesor  
@@ -40,7 +40,7 @@ Modelar y relacionar entidades del contexto académico usando **Django**, repres
 
 ---
 
-## ⚙️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Python 3.13**
 - **Django 5.1**
@@ -50,7 +50,7 @@ Modelar y relacionar entidades del contexto académico usando **Django**, repres
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
 1. Clonar el repositorio:
    ```bash
